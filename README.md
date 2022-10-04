@@ -5,7 +5,7 @@ align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width 
 </p>
 <h3 align="center">GitHub Stats📔</h3>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikata12&layout=compact&theme=tokyonight" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fikata12&show_icons=true&theme=tokyonight" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atanasoow&layout=compact&theme=tokyonight" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atanasoow&show_icons=true&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 <p 
    align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fikata12&theme=tokyonight">
