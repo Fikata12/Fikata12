@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">GitHub Stats📔</h3>
 
-| <a href="#https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fikata12&layout=compact&theme=dar"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fikata12&layout=compact&theme=dark" alt="GitHub Stats" /></a> | <a href="#https://github-readme-stats-eight-theta.vercel.app/api?username=fikata12&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fikata12&show_icons=true&theme=dark" /></a> |
+| <a href="#https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fikata12&layout=compact&theme=dar"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fikata12&layout=compact&theme=dark&langs_count=8" alt="GitHub Stats" /></a> | <a href="#https://github-readme-stats-eight-theta.vercel.app/api?username=fikata12&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fikata12&show_icons=true&theme=dark" /></a> |
 | ------------- | ------------- |
 <p align="center">
   <a href="#https://github-readme-streak-stats.herokuapp.com/?user=fikata12&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fikata12&theme=dark"></a>
