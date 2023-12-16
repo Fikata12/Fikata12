@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Filip Karabashev!👋
-<h3 align="center">🎓Student at <a href="https://softuni.bg/">SoftUni</a>!🎓</h3>
 <p align="center">
    <a href="#0"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width = 400></a>
 </p>
